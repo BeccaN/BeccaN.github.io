@@ -1,11 +1,11 @@
 # Site settings
 author: Rebecca Congi
-title: 
+title: My Code Journey
 header-img: img/home-bg.png
 email: rncongi@gmail.com
 copyright_name: Rebecca Congi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  the beginning of a new life chapter
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BeccaN
