@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Why I Chose Code"
-date:       2020-07-27 21:50:50 +0000
+title:      "Why I chose code"
+date:       2020-07-27 17:50:51 -0400
 permalink:  why_i_chose_code
 ---
 
