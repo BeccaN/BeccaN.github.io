@@ -5,7 +5,6 @@ date:       2020-09-18 15:21:14 -0400
 permalink:  starting_your_cli_project
 ---
 
-
 Wow, can't believe its been almost two months since I started the part time software engineering program. After completing this first project there are so many things that I have learned, about code and the material, as well as myself. My project utilized the NY Times Books API, specifically I was scraping for the current hardcover fiction bestsellers list. The user would be prompted with the bestsellers list and then be asked which book they wished to learn more about. As simple as this might sound initially, I still found myself incredibly anxious and lost on how to start. Of course I did my fair share of anxious procrastination at the start, but I feel like I learned some valuable lessons that could potentially help others when they get to their CLI project!
 
 ### 1. Watch the walkthrough video...
