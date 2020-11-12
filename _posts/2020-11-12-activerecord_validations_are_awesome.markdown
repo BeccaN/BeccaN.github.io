@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ActiveRecord Validations Are Awesome!"
-date:       2020-11-12 19:35:52 +0000
+date:       2020-11-12 14:35:53 -0500
 permalink:  activerecord_validations_are_awesome
 ---
 
